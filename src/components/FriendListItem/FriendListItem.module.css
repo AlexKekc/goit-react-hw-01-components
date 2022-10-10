@@ -19,7 +19,6 @@
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  color: transparent;
   background-color: var(--color-green);
 }
 
@@ -27,7 +26,6 @@
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  color: transparent;
   background-color: var(--color-red);
 }
 
