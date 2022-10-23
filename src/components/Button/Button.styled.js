@@ -10,7 +10,7 @@ export const StyledButton = styled.button`
   padding-left: ${p => p.theme.space[3]}px;
   padding-right: ${p => p.theme.space[3]}px;
   border: ${p => p.theme.borders.normal};
-  border-radius: ${p => p.theme.radii.normal};
+  border-radius: ${p => p.theme.radii.big};
   background-color: ${p =>
     p.disabled ? p.theme.colors.gray : p.theme.colors.green};
   color: ${p => p.theme.colors.primaryText};
